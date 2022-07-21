@@ -13,4 +13,3 @@
 
 ## 📬 Me contacter
 - Linkedin : [@etiennepassot](https://www.linkedin.com/in/etiennepassot/)
-- Email : etienne@passot.dev
